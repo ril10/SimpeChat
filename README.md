@@ -1,1 +1,3 @@
-# SimpeChat
+# SimpeChat application 
+# using Firebase
+# IQKeyboardManagerSwift
